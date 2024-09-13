@@ -1,5 +1,5 @@
 ## Please fill in all the parts labeled as ### YOUR CODE HERE
-
+from utils import dot_product, cosine_similarity, nearest_neighbor
 import numpy as np
 import pytest
 from utils import *
